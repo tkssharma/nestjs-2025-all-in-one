@@ -6,7 +6,134 @@ Welcome to the **Mastering NestJS** course repository. This course covers everyt
 
 ---
 
-## 📚 Course Modules Overview
+## � About This Course
+
+Master modern backend development with NestJS in this comprehensive Hindi course. Whether you're a beginner or an experienced developer, this course will take you from zero to hero by covering everything from the basics to advanced enterprise-level concepts.
+
+You'll learn how to build scalable, secure, and maintainable server-side applications using TypeScript and NestJS, a powerful Node.js framework inspired by Angular. We'll explore topics like REST APIs, GraphQL, authentication, database integration (PostgreSQL, MongoDB, TypeORM, Prisma), monorepo architecture, microservices, event-driven systems, testing, cloud deployments, and more.
+
+By the end of this course, you'll be confident enough to develop and deploy production-grade backend applications using best practices in modern development workflows.
+
+---
+
+## 🎯 Course Agenda
+
+### Section 1: Introduction - NestJS Zero to Hero
+
+- **Lecture 1:** NestJS Zero to Hero - Modern backend Development
+- **Lecture 2:** Setting up Your System and prerequisite for this Course
+- **Lecture 3:** Course Agenda & Outline
+
+### Section 2: Getting Started with NestJS
+
+- **Lecture 4:** NestJS CLI Starter: Exploring the Generated Code
+- **Lecture 5:** System Setup and Node.js Installation for NestJS Development
+- **Lecture 6:** Why NestJS? – Introduction to NestJS (Preview enabled)
+- **Lecture 7:** NestJS vs Express: Key Differences in API Development
+- **Lecture 8:** Using NestJS CLI & Organize Your Code with Modular Structure
+
+### Section 3: NestJS Basic Fundamentals with Simple CRUD
+
+- **Lecture 9:** Baseline Nestjs Code for Building APIs
+- **Lecture 10:** Building REST API CRUD Operation with In Memory Data
+- **Lecture 11:** NestJS Controller and Service Basic Fundamentals
+
+### Section 4: NestJS CLI and NestJS Core Building Blocks
+
+- **Lecture 12:** Understanding the NestJS Request Lifecycle Flow
+- **Lecture 13:** Kickstarting Your NestJS App with the CLI (Preview enabled)
+- **Lecture 14:** NestJS Middleware and Auth Guard with Core Components
+
+### Section 5: NestJS Dependency Injection and Building Blocks
+
+- **Lecture 15:** NestJS API Documentation Using Swagger
+
+---
+
+## 📘 Course Modules (Extended Learning)
+
+### Module 1: NestJS Fundamentals and Core Concepts
+
+- Introduction to NestJS and its architecture
+- Basic Fundamentals of Nestjs (core concepts)
+- Setting up a NestJS project with TypeScript
+- Creating RESTful APIs and GraphQL endpoints
+- Implementing authentication (JWT, OAuth, Passport.js)
+- Building end to end REST API services
+- Setting up a NestJS project with Monorepo
+- Database integration with TypeORM & Prisma and Mongoose
+- Setting up a NestJS project with Testing
+- Understanding NestJS Microservices
+- Building Microservices and event-driven applications
+- Unit & Integration Testing in NestJS
+- CI/CD and deploying NestJS apps to the cloud
+
+### Module 2: API Development - REST and GraphQL
+
+- Creating RESTful APIs with NestJS
+- Building GraphQL APIs using code-first and schema-first approaches
+- API versioning and best practices
+- API documentation using Swagger
+- Handling GraphQL resolvers and decorators
+- Integrating GraphQL with authentication and guards
+
+### Module 3: Authentication and Authorization
+
+- Authentication with Passport.js (JWT, Local, OAuth2 strategies)
+- Implementing cookie-based authentication (HTTP-only cookies)
+- Session-based authentication flow
+- Role-based access control (RBAC)
+- Token-based authentication and refresh strategies
+- Security best practices (CORS, helmet, rate limiting, CSRF protection)
+
+### Module 4: Database Integration and File Handling
+
+- Connecting PostgreSQL using TypeORM
+- Using Prisma ORM for modern data modeling
+- Integrating MongoDB with Mongoose
+- File upload handling with Multer and working with static assets
+- Exception filters, interceptors, and custom decorators
+
+### Module 5: NestJS Microservices and Architecture
+
+- Understanding NestJS microservices architecture
+- Building microservices using TCP, Redis, NATS, RabbitMQ
+- Using message patterns and transporters
+- Communication using EventEmitter and custom event buses
+- Scalable job queues with BullMQ
+- Deploying and testing distributed services
+
+### Module 6: NestJS GraphQL Deep Dive
+
+- Setting up GraphQL modules and resolvers
+- Working with GraphQL decorators and schemas
+- Using Apollo Server and code-first approach
+- Handling GraphQL mutations and queries with DTOs
+- Integrating GraphQL with databases (TypeORM/Prisma)
+- Testing GraphQL queries and mutations
+
+### Module 7: NestJS Testing Strategies
+
+- Unit testing with Jest and mocking techniques
+- Writing integration tests with Supertest
+- Testing GraphQL APIs and authentication guards
+- Testing modules and controllers independently
+- Creating reusable testing utilities
+- Best practices for test organization and coverage
+
+### Module 8: DevOps, CI/CD, and Cloud Deployment
+
+- Setting up environment variables and configuration modules
+- Logging and monitoring with Winston and Morgan
+- CI/CD pipeline setup with GitHub Actions or GitLab CI
+- Dockerizing your NestJS app for production
+- Deploying to AWS Lambda using Serverless Framework
+- Deploying on EC2, ECS, and Kubernetes
+- Creating and publishing custom NestJS packages
+
+---
+
+## �📚 Course Modules Overview
 
 ## 📆 Course Schedule
 
