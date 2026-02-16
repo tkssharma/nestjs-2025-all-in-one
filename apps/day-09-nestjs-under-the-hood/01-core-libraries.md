@@ -1,4 +1,4 @@
-# 📹 Video 1: NestJS Core Libraries Overview
+# NestJS Core Libraries Overview
 
 > Understanding the @nestjs/* ecosystem and how packages work together
 

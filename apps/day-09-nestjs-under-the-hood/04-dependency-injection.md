@@ -1,4 +1,4 @@
-# 📹 Video 4: Dependency Injection Deep Dive ⭐
+# Dependency Injection Deep Dive ⭐
 
 > **MAIN FOCUS** - Understanding how DI works in NestJS
 

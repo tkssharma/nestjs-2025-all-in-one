@@ -1,4 +1,4 @@
-# 📹 Video 7: Angular-Inspired Design in NestJS
+# Angular-Inspired Design in NestJS
 
 > How NestJS borrows patterns from Angular
 

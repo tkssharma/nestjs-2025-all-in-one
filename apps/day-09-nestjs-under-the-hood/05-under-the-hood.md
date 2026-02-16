@@ -1,4 +1,4 @@
-# 📹 Video 5: NestJS Under the Hood - Internals
+# NestJS Under the Hood - Internals
 
 > Understanding the bootstrap process and request lifecycle
 

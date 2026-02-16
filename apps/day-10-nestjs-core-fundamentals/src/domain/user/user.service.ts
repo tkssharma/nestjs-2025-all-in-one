@@ -1,6 +1,7 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { User, UserLists } from './user.model';
 import { ConfigService } from '@nestjs/config';
+import { TaskService } from '../task/task.service';
 
 @Injectable()
 export class UserService {

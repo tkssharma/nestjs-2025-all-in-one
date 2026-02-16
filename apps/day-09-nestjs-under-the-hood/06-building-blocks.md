@@ -1,4 +1,4 @@
-# 📹 Video 6: NestJS Building Blocks
+# NestJS Building Blocks
 
 > Controllers, Services, Middleware, Guards, Interceptors, Pipes, Filters
 

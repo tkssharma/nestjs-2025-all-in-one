@@ -1,4 +1,4 @@
-# 📹 Video 8: NestJS as Production-Ready Framework
+# NestJS as Production-Ready Framework
 
 > Built-in features for enterprise applications
 
